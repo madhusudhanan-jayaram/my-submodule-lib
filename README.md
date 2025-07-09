@@ -1,13 +1,9 @@
-# My Main Project
+# My Submodule Library
 
-This is the main project repository that includes a Git submodule for reusable utilities.
+This is a standalone utility library designed to be used as a **Git submodule** inside other projects.  
+It contains reusable code components such as string functions, helper utilities, and shared logic.
 
-## 📁 Project Structure
+---
 
-my-main-project/
-├── main.txt # Main module code
-├── submodules/
-│ └── my-submodule-lib/ # Git submodule
-│ └── submodule.txt
-├── .gitmodules # Git tracking file for submodules
-└── README.md # This file
+## 📁 Files
+
