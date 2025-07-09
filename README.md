@@ -7,3 +7,7 @@ It contains reusable code components such as string functions, helper utilities,
 
 ## 📁 Files
 
+my-submodule-lib/
+├── submodule.txt # Example file with utility functions
+├── utils.txt # (Optional) Additional shared logic
+└── README.md # This file
